@@ -96,12 +96,5 @@ jupyter notebook
 * **ResNet Accuracy:** 70%
 * Confusion matrix highlights which emotions were predicted more accurately.
 
----
-
-## Future Improvements
-
-* Add **multi-face detection** in real-time video.
-* Deploy as a **web application** with live webcam emotion detection.
-* Implement **emotion trend analysis** over time.
 
 
