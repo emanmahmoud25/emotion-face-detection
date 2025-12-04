@@ -1,4 +1,5 @@
 # Emotion Detection
+<img width="947" height="386" alt="Image" src="https://github.com/user-attachments/assets/e2e12f4e-cf52-419e-8d3c-2a64f0515890" />
 
 https://huggingface.co/spaces/emann123/emotion-detection-fastapi
 ## Overview
