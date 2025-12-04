@@ -2,7 +2,9 @@
 <img width="947" height="386" alt="Image" src="https://github.com/user-attachments/assets/e2e12f4e-cf52-419e-8d3c-2a64f0515890" />
 
 app_link : https://huggingface.co/spaces/emann123/emotion-detection-fastapi
+
 presentation : https://www.canva.com/design/DAG6Y1obRVA/MZ4ubOQB5mMXpLd2kAitPQ/edit?utm_content=DAG6Y1obRVA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Overview
 
 This project implements an **Emotion Detection System** capable of recognizing **7 different emotions** from facial images. It supports both **image uploads** and **real-time webcam detection**, using deep learning and computer vision techniques.
